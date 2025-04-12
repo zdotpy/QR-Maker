@@ -20,7 +20,7 @@ A simple web application to generate QR codes from text or URLs.
 - [QR Code API](https://goqr.me/api/)
 
 ## Preview
-![QR Maker Screenshot](screenshot.png) *(Add a screenshot of your app here)*
+![QR Maker Screenshot](Pictures/Capture.PNG)
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
